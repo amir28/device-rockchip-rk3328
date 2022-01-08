@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+LOCAL_DIR := device/Android/rk3328/
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/rk3328.mk \
     $(LOCAL_DIR)/rk3328_box.mk \
